@@ -1,0 +1,440 @@
+﻿  Complex.cpp
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Complex.h(3,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Complex.cpp(2,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Complex.cpp(25,18): error C2259: "Complex": невозможно создать экземпляр абстрактного класса
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Complex.h(4): message : см. объявление "Complex"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Complex.cpp(25,18): message : из-за следующих членов:
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Complex.cpp(25,18): message : Pair Pair::operator =(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(26): message : см. объявление "Pair::operator ="
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Complex.cpp(25,18): message : Pair Pair::operator +(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(27): message : см. объявление "Pair::operator +"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Complex.cpp(25,18): message : Pair Pair::operator -(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(28): message : см. объявление "Pair::operator -"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Complex.cpp(25,18): message : Pair Pair::operator *(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(29): message : см. объявление "Pair::operator *"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Complex.cpp(25,18): message : Pair Pair::operator /(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(30): message : см. объявление "Pair::operator /"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Complex.cpp(29,13): error C2440: return: невозможно преобразовать "Complex *" в "Complex"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Complex.cpp(29,13): message : Ни один конструктор не смог принять исходный тип, либо разрешение перегрузки конструктора неоднозначно
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Complex.cpp(32,18): error C2259: "Complex": невозможно создать экземпляр абстрактного класса
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Complex.h(4): message : см. объявление "Complex"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Complex.cpp(32,18): message : из-за следующих членов:
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Complex.cpp(32,18): message : Pair Pair::operator =(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(26): message : см. объявление "Pair::operator ="
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Complex.cpp(32,18): message : Pair Pair::operator +(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(27): message : см. объявление "Pair::operator +"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Complex.cpp(32,18): message : Pair Pair::operator -(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(28): message : см. объявление "Pair::operator -"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Complex.cpp(32,18): message : Pair Pair::operator *(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(29): message : см. объявление "Pair::operator *"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Complex.cpp(32,18): message : Pair Pair::operator /(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(30): message : см. объявление "Pair::operator /"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Complex.cpp(39,18): error C2259: "Complex": невозможно создать экземпляр абстрактного класса
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Complex.h(4): message : см. объявление "Complex"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Complex.cpp(39,18): message : из-за следующих членов:
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Complex.cpp(39,18): message : Pair Pair::operator =(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(26): message : см. объявление "Pair::operator ="
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Complex.cpp(39,18): message : Pair Pair::operator +(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(27): message : см. объявление "Pair::operator +"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Complex.cpp(39,18): message : Pair Pair::operator -(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(28): message : см. объявление "Pair::operator -"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Complex.cpp(39,18): message : Pair Pair::operator *(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(29): message : см. объявление "Pair::operator *"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Complex.cpp(39,18): message : Pair Pair::operator /(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(30): message : см. объявление "Pair::operator /"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Complex.cpp(46,18): error C2259: "Complex": невозможно создать экземпляр абстрактного класса
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Complex.h(4): message : см. объявление "Complex"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Complex.cpp(46,18): message : из-за следующих членов:
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Complex.cpp(46,18): message : Pair Pair::operator =(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(26): message : см. объявление "Pair::operator ="
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Complex.cpp(46,18): message : Pair Pair::operator +(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(27): message : см. объявление "Pair::operator +"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Complex.cpp(46,18): message : Pair Pair::operator -(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(28): message : см. объявление "Pair::operator -"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Complex.cpp(46,18): message : Pair Pair::operator *(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(29): message : см. объявление "Pair::operator *"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Complex.cpp(46,18): message : Pair Pair::operator /(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(30): message : см. объявление "Pair::operator /"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Complex.cpp(53,18): error C2259: "Complex": невозможно создать экземпляр абстрактного класса
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Complex.h(4): message : см. объявление "Complex"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Complex.cpp(53,18): message : из-за следующих членов:
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Complex.cpp(53,18): message : Pair Pair::operator =(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(26): message : см. объявление "Pair::operator ="
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Complex.cpp(53,18): message : Pair Pair::operator +(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(27): message : см. объявление "Pair::operator +"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Complex.cpp(53,18): message : Pair Pair::operator -(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(28): message : см. объявление "Pair::operator -"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Complex.cpp(53,18): message : Pair Pair::operator *(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(29): message : см. объявление "Pair::operator *"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Complex.cpp(53,18): message : Pair Pair::operator /(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(30): message : см. объявление "Pair::operator /"
+  FuzzyNumber.cpp
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\FuzzyNumber.h(5,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\FuzzyNumber.cpp(2,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\FuzzyNumber.cpp(30,26): error C2259: "FuzzyNumber": невозможно создать экземпляр абстрактного класса
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\FuzzyNumber.h(6): message : см. объявление "FuzzyNumber"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\FuzzyNumber.cpp(30,26): message : из-за следующих членов:
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\FuzzyNumber.cpp(30,26): message : Pair Pair::operator =(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(26): message : см. объявление "Pair::operator ="
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\FuzzyNumber.cpp(30,26): message : Pair Pair::operator +(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(27): message : см. объявление "Pair::operator +"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\FuzzyNumber.cpp(30,26): message : Pair Pair::operator -(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(28): message : см. объявление "Pair::operator -"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\FuzzyNumber.cpp(30,26): message : Pair Pair::operator *(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(29): message : см. объявление "Pair::operator *"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\FuzzyNumber.cpp(30,26): message : Pair Pair::operator /(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(30): message : см. объявление "Pair::operator /"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\FuzzyNumber.cpp(34,13): error C2440: return: невозможно преобразовать "FuzzyNumber *" в "FuzzyNumber"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\FuzzyNumber.cpp(34,13): message : Ни один конструктор не смог принять исходный тип, либо разрешение перегрузки конструктора неоднозначно
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\FuzzyNumber.cpp(37,26): error C2259: "FuzzyNumber": невозможно создать экземпляр абстрактного класса
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\FuzzyNumber.h(6): message : см. объявление "FuzzyNumber"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\FuzzyNumber.cpp(37,26): message : из-за следующих членов:
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\FuzzyNumber.cpp(37,26): message : Pair Pair::operator =(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(26): message : см. объявление "Pair::operator ="
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\FuzzyNumber.cpp(37,26): message : Pair Pair::operator +(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(27): message : см. объявление "Pair::operator +"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\FuzzyNumber.cpp(37,26): message : Pair Pair::operator -(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(28): message : см. объявление "Pair::operator -"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\FuzzyNumber.cpp(37,26): message : Pair Pair::operator *(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(29): message : см. объявление "Pair::operator *"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\FuzzyNumber.cpp(37,26): message : Pair Pair::operator /(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(30): message : см. объявление "Pair::operator /"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\FuzzyNumber.cpp(42,13): error C2440: return: невозможно преобразовать "FuzzyNumber *" в "FuzzyNumber"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\FuzzyNumber.cpp(42,13): message : Ни один конструктор не смог принять исходный тип, либо разрешение перегрузки конструктора неоднозначно
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\FuzzyNumber.cpp(45,26): error C2259: "FuzzyNumber": невозможно создать экземпляр абстрактного класса
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\FuzzyNumber.h(6): message : см. объявление "FuzzyNumber"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\FuzzyNumber.cpp(45,26): message : из-за следующих членов:
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\FuzzyNumber.cpp(45,26): message : Pair Pair::operator =(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(26): message : см. объявление "Pair::operator ="
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\FuzzyNumber.cpp(45,26): message : Pair Pair::operator +(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(27): message : см. объявление "Pair::operator +"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\FuzzyNumber.cpp(45,26): message : Pair Pair::operator -(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(28): message : см. объявление "Pair::operator -"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\FuzzyNumber.cpp(45,26): message : Pair Pair::operator *(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(29): message : см. объявление "Pair::operator *"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\FuzzyNumber.cpp(45,26): message : Pair Pair::operator /(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(30): message : см. объявление "Pair::operator /"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\FuzzyNumber.cpp(50,13): error C2440: return: невозможно преобразовать "FuzzyNumber *" в "FuzzyNumber"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\FuzzyNumber.cpp(50,13): message : Ни один конструктор не смог принять исходный тип, либо разрешение перегрузки конструктора неоднозначно
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\FuzzyNumber.cpp(53,26): error C2259: "FuzzyNumber": невозможно создать экземпляр абстрактного класса
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\FuzzyNumber.h(6): message : см. объявление "FuzzyNumber"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\FuzzyNumber.cpp(53,26): message : из-за следующих членов:
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\FuzzyNumber.cpp(53,26): message : Pair Pair::operator =(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(26): message : см. объявление "Pair::operator ="
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\FuzzyNumber.cpp(53,26): message : Pair Pair::operator +(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(27): message : см. объявление "Pair::operator +"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\FuzzyNumber.cpp(53,26): message : Pair Pair::operator -(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(28): message : см. объявление "Pair::operator -"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\FuzzyNumber.cpp(53,26): message : Pair Pair::operator *(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(29): message : см. объявление "Pair::operator *"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\FuzzyNumber.cpp(53,26): message : Pair Pair::operator /(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(30): message : см. объявление "Pair::operator /"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\FuzzyNumber.cpp(60,13): error C2440: return: невозможно преобразовать "FuzzyNumber *" в "FuzzyNumber"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\FuzzyNumber.cpp(60,13): message : Ни один конструктор не смог принять исходный тип, либо разрешение перегрузки конструктора неоднозначно
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\FuzzyNumber.cpp(63,26): error C2259: "FuzzyNumber": невозможно создать экземпляр абстрактного класса
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\FuzzyNumber.h(6): message : см. объявление "FuzzyNumber"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\FuzzyNumber.cpp(63,26): message : из-за следующих членов:
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\FuzzyNumber.cpp(63,26): message : Pair Pair::operator =(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(26): message : см. объявление "Pair::operator ="
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\FuzzyNumber.cpp(63,26): message : Pair Pair::operator +(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(27): message : см. объявление "Pair::operator +"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\FuzzyNumber.cpp(63,26): message : Pair Pair::operator -(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(28): message : см. объявление "Pair::operator -"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\FuzzyNumber.cpp(63,26): message : Pair Pair::operator *(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(29): message : см. объявление "Pair::operator *"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\FuzzyNumber.cpp(63,26): message : Pair Pair::operator /(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(30): message : см. объявление "Pair::operator /"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\FuzzyNumber.cpp(76,13): error C2440: return: невозможно преобразовать "FuzzyNumber *" в "FuzzyNumber"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\FuzzyNumber.cpp(76,13): message : Ни один конструктор не смог принять исходный тип, либо разрешение перегрузки конструктора неоднозначно
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\FuzzyNumber.cpp(102,13): error C2259: "FuzzyNumber": невозможно создать экземпляр абстрактного класса
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\FuzzyNumber.h(6): message : см. объявление "FuzzyNumber"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\FuzzyNumber.cpp(102,13): message : из-за следующих членов:
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\FuzzyNumber.cpp(102,13): message : Pair Pair::operator =(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(26): message : см. объявление "Pair::operator ="
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\FuzzyNumber.cpp(102,13): message : Pair Pair::operator +(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(27): message : см. объявление "Pair::operator +"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\FuzzyNumber.cpp(102,13): message : Pair Pair::operator -(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(28): message : см. объявление "Pair::operator -"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\FuzzyNumber.cpp(102,13): message : Pair Pair::operator *(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(29): message : см. объявление "Pair::operator *"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\FuzzyNumber.cpp(102,13): message : Pair Pair::operator /(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(30): message : см. объявление "Pair::operator /"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\FuzzyNumber.cpp(104,24): error C2440: инициализация: невозможно преобразовать "initializer list" в "FuzzyNumber &"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\FuzzyNumber.cpp(104,16): message : Инициализатор содержит слишком много элементов
+  Source.cpp
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Complex.h(3,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(2,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(19): error C2259: "Complex": невозможно создать экземпляр абстрактного класса
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Complex.h(4): message : см. объявление "Complex"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(19): message : из-за следующих членов:
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(19): message : Pair Pair::operator =(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(26): message : см. объявление "Pair::operator ="
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(19): message : Pair Pair::operator +(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(27): message : см. объявление "Pair::operator +"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(19): message : Pair Pair::operator -(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(28): message : см. объявление "Pair::operator -"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(19): message : Pair Pair::operator *(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(29): message : см. объявление "Pair::operator *"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(19): message : Pair Pair::operator /(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(30): message : см. объявление "Pair::operator /"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(19,24): error C2259: "Complex": невозможно создать экземпляр абстрактного класса
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Complex.h(4): message : см. объявление "Complex"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(19,24): message : из-за следующих членов:
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(19,24): message : Pair Pair::operator =(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(26): message : см. объявление "Pair::operator ="
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(19,24): message : Pair Pair::operator +(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(27): message : см. объявление "Pair::operator +"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(19,24): message : Pair Pair::operator -(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(28): message : см. объявление "Pair::operator -"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(19,24): message : Pair Pair::operator *(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(29): message : см. объявление "Pair::operator *"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(19,24): message : Pair Pair::operator /(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(30): message : см. объявление "Pair::operator /"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(20): error C2259: "Complex": невозможно создать экземпляр абстрактного класса
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Complex.h(4): message : см. объявление "Complex"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(20): message : из-за следующих членов:
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(20): message : Pair Pair::operator =(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(26): message : см. объявление "Pair::operator ="
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(20): message : Pair Pair::operator +(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(27): message : см. объявление "Pair::operator +"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(20): message : Pair Pair::operator -(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(28): message : см. объявление "Pair::operator -"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(20): message : Pair Pair::operator *(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(29): message : см. объявление "Pair::operator *"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(20): message : Pair Pair::operator /(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(30): message : см. объявление "Pair::operator /"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(21): error C2259: "Complex": невозможно создать экземпляр абстрактного класса
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Complex.h(4): message : см. объявление "Complex"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(21): message : из-за следующих членов:
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(21): message : Pair Pair::operator =(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(26): message : см. объявление "Pair::operator ="
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(21): message : Pair Pair::operator +(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(27): message : см. объявление "Pair::operator +"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(21): message : Pair Pair::operator -(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(28): message : см. объявление "Pair::operator -"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(21): message : Pair Pair::operator *(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(29): message : см. объявление "Pair::operator *"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(21): message : Pair Pair::operator /(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(30): message : см. объявление "Pair::operator /"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(22): error C2259: "Complex": невозможно создать экземпляр абстрактного класса
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Complex.h(4): message : см. объявление "Complex"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(22): message : из-за следующих членов:
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(22): message : Pair Pair::operator =(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(26): message : см. объявление "Pair::operator ="
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(22): message : Pair Pair::operator +(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(27): message : см. объявление "Pair::operator +"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(22): message : Pair Pair::operator -(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(28): message : см. объявление "Pair::operator -"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(22): message : Pair Pair::operator *(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(29): message : см. объявление "Pair::operator *"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(22): message : Pair Pair::operator /(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(30): message : см. объявление "Pair::operator /"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(23): error C2259: "Complex": невозможно создать экземпляр абстрактного класса
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Complex.h(4): message : см. объявление "Complex"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(23): message : из-за следующих членов:
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(23): message : Pair Pair::operator =(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(26): message : см. объявление "Pair::operator ="
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(23): message : Pair Pair::operator +(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(27): message : см. объявление "Pair::operator +"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(23): message : Pair Pair::operator -(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(28): message : см. объявление "Pair::operator -"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(23): message : Pair Pair::operator *(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(29): message : см. объявление "Pair::operator *"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(23): message : Pair Pair::operator /(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(30): message : см. объявление "Pair::operator /"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(24): error C2259: "Complex": невозможно создать экземпляр абстрактного класса
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Complex.h(4): message : см. объявление "Complex"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(24): message : из-за следующих членов:
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(24): message : Pair Pair::operator =(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(26): message : см. объявление "Pair::operator ="
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(24): message : Pair Pair::operator +(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(27): message : см. объявление "Pair::operator +"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(24): message : Pair Pair::operator -(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(28): message : см. объявление "Pair::operator -"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(24): message : Pair Pair::operator *(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(29): message : см. объявление "Pair::operator *"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(24): message : Pair Pair::operator /(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(30): message : см. объявление "Pair::operator /"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(31,15): error C2679: бинарный "+": не найден оператор, принимающий правый операнд типа "Pair *" (или приемлемое преобразование отсутствует)
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(27,15): message : может быть "Pair Pair::operator +(const Pair &)"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(31,15): message : при попытке сопоставить список аргументов "(Pair, Pair *)"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(34,15): error C2678: бинарный "-": не найден оператор, принимающий левый операнд типа "Pair" (или приемлемое преобразование отсутствует)
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(28,15): message : может быть "Pair Pair::operator -(const Pair &)"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(34,15): message : или       "встроенный оператор C++-(Pair *, Pair *)"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(34,15): message : при попытке сопоставить список аргументов "(Pair, Pair *)"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(37,15): error C2679: бинарный "*": не найден оператор, принимающий правый операнд типа "Pair *" (или приемлемое преобразование отсутствует)
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(29,15): message : может быть "Pair Pair::operator *(const Pair &)"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(37,15): message : при попытке сопоставить список аргументов "(Pair, Pair *)"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(40,15): error C2679: бинарный "/": не найден оператор, принимающий правый операнд типа "Pair *" (или приемлемое преобразование отсутствует)
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(30,15): message : может быть "Pair Pair::operator /(const Pair &)"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(40,15): message : при попытке сопоставить список аргументов "(Pair, Pair *)"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(61): error C2259: "FuzzyNumber": невозможно создать экземпляр абстрактного класса
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\FuzzyNumber.h(6): message : см. объявление "FuzzyNumber"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(61): message : из-за следующих членов:
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(61): message : Pair Pair::operator =(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(26): message : см. объявление "Pair::operator ="
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(61): message : Pair Pair::operator +(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(27): message : см. объявление "Pair::operator +"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(61): message : Pair Pair::operator -(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(28): message : см. объявление "Pair::operator -"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(61): message : Pair Pair::operator *(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(29): message : см. объявление "Pair::operator *"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(61): message : Pair Pair::operator /(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(30): message : см. объявление "Pair::operator /"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(61,28): error C2259: "FuzzyNumber": невозможно создать экземпляр абстрактного класса
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\FuzzyNumber.h(6): message : см. объявление "FuzzyNumber"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(61,28): message : из-за следующих членов:
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(61,28): message : Pair Pair::operator =(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(26): message : см. объявление "Pair::operator ="
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(61,28): message : Pair Pair::operator +(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(27): message : см. объявление "Pair::operator +"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(61,28): message : Pair Pair::operator -(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(28): message : см. объявление "Pair::operator -"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(61,28): message : Pair Pair::operator *(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(29): message : см. объявление "Pair::operator *"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(61,28): message : Pair Pair::operator /(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(30): message : см. объявление "Pair::operator /"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(62): error C2259: "FuzzyNumber": невозможно создать экземпляр абстрактного класса
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\FuzzyNumber.h(6): message : см. объявление "FuzzyNumber"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(62): message : из-за следующих членов:
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(62): message : Pair Pair::operator =(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(26): message : см. объявление "Pair::operator ="
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(62): message : Pair Pair::operator +(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(27): message : см. объявление "Pair::operator +"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(62): message : Pair Pair::operator -(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(28): message : см. объявление "Pair::operator -"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(62): message : Pair Pair::operator *(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(29): message : см. объявление "Pair::operator *"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(62): message : Pair Pair::operator /(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(30): message : см. объявление "Pair::operator /"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(63): error C2259: "FuzzyNumber": невозможно создать экземпляр абстрактного класса
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\FuzzyNumber.h(6): message : см. объявление "FuzzyNumber"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(63): message : из-за следующих членов:
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(63): message : Pair Pair::operator =(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(26): message : см. объявление "Pair::operator ="
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(63): message : Pair Pair::operator +(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(27): message : см. объявление "Pair::operator +"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(63): message : Pair Pair::operator -(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(28): message : см. объявление "Pair::operator -"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(63): message : Pair Pair::operator *(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(29): message : см. объявление "Pair::operator *"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(63): message : Pair Pair::operator /(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(30): message : см. объявление "Pair::operator /"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(64): error C2259: "FuzzyNumber": невозможно создать экземпляр абстрактного класса
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\FuzzyNumber.h(6): message : см. объявление "FuzzyNumber"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(64): message : из-за следующих членов:
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(64): message : Pair Pair::operator =(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(26): message : см. объявление "Pair::operator ="
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(64): message : Pair Pair::operator +(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(27): message : см. объявление "Pair::operator +"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(64): message : Pair Pair::operator -(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(28): message : см. объявление "Pair::operator -"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(64): message : Pair Pair::operator *(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(29): message : см. объявление "Pair::operator *"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(64): message : Pair Pair::operator /(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(30): message : см. объявление "Pair::operator /"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(65): error C2259: "FuzzyNumber": невозможно создать экземпляр абстрактного класса
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\FuzzyNumber.h(6): message : см. объявление "FuzzyNumber"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(65): message : из-за следующих членов:
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(65): message : Pair Pair::operator =(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(26): message : см. объявление "Pair::operator ="
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(65): message : Pair Pair::operator +(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(27): message : см. объявление "Pair::operator +"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(65): message : Pair Pair::operator -(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(28): message : см. объявление "Pair::operator -"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(65): message : Pair Pair::operator *(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(29): message : см. объявление "Pair::operator *"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(65): message : Pair Pair::operator /(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(30): message : см. объявление "Pair::operator /"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(66): error C2259: "FuzzyNumber": невозможно создать экземпляр абстрактного класса
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\FuzzyNumber.h(6): message : см. объявление "FuzzyNumber"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(66): message : из-за следующих членов:
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(66): message : Pair Pair::operator =(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(26): message : см. объявление "Pair::operator ="
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(66): message : Pair Pair::operator +(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(27): message : см. объявление "Pair::operator +"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(66): message : Pair Pair::operator -(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(28): message : см. объявление "Pair::operator -"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(66): message : Pair Pair::operator *(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(29): message : см. объявление "Pair::operator *"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(66): message : Pair Pair::operator /(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(30): message : см. объявление "Pair::operator /"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(73,15): error C2679: бинарный "+": не найден оператор, принимающий правый операнд типа "Pair *" (или приемлемое преобразование отсутствует)
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(27,15): message : может быть "Pair Pair::operator +(const Pair &)"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(73,15): message : при попытке сопоставить список аргументов "(Pair, Pair *)"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(76,15): error C2678: бинарный "-": не найден оператор, принимающий левый операнд типа "Pair" (или приемлемое преобразование отсутствует)
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(28,15): message : может быть "Pair Pair::operator -(const Pair &)"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(76,15): message : или       "встроенный оператор C++-(Pair *, Pair *)"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(76,15): message : при попытке сопоставить список аргументов "(Pair, Pair *)"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(79,15): error C2679: бинарный "*": не найден оператор, принимающий правый операнд типа "Pair *" (или приемлемое преобразование отсутствует)
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(29,15): message : может быть "Pair Pair::operator *(const Pair &)"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(79,15): message : при попытке сопоставить список аргументов "(Pair, Pair *)"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(82,15): error C2679: бинарный "/": не найден оператор, принимающий правый операнд типа "Pair *" (или приемлемое преобразование отсутствует)
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(30,15): message : может быть "Pair Pair::operator /(const Pair &)"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(82,15): message : при попытке сопоставить список аргументов "(Pair, Pair *)"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(85,14): error C2259: "FuzzyNumber": невозможно создать экземпляр абстрактного класса
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\FuzzyNumber.h(6): message : см. объявление "FuzzyNumber"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(85,14): message : из-за следующих членов:
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(85,14): message : Pair Pair::operator =(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(26): message : см. объявление "Pair::operator ="
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(85,14): message : Pair Pair::operator +(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(27): message : см. объявление "Pair::operator +"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(85,14): message : Pair Pair::operator -(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(28): message : см. объявление "Pair::operator -"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(85,14): message : Pair Pair::operator *(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(29): message : см. объявление "Pair::operator *"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(85,14): message : Pair Pair::operator /(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(30): message : см. объявление "Pair::operator /"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(86,14): error C2259: "FuzzyNumber": невозможно создать экземпляр абстрактного класса
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\FuzzyNumber.h(6): message : см. объявление "FuzzyNumber"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(86,14): message : из-за следующих членов:
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(86,14): message : Pair Pair::operator =(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(26): message : см. объявление "Pair::operator ="
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(86,14): message : Pair Pair::operator +(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(27): message : см. объявление "Pair::operator +"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(86,14): message : Pair Pair::operator -(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(28): message : см. объявление "Pair::operator -"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(86,14): message : Pair Pair::operator *(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(29): message : см. объявление "Pair::operator *"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(86,14): message : Pair Pair::operator /(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(30): message : см. объявление "Pair::operator /"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(86,21): error C2259: "FuzzyNumber": невозможно создать экземпляр абстрактного класса
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\FuzzyNumber.h(6): message : см. объявление "FuzzyNumber"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(86,21): message : из-за следующих членов:
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(86,21): message : Pair Pair::operator =(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(26): message : см. объявление "Pair::operator ="
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(86,21): message : Pair Pair::operator +(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(27): message : см. объявление "Pair::operator +"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(86,21): message : Pair Pair::operator -(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(28): message : см. объявление "Pair::operator -"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(86,21): message : Pair Pair::operator *(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(29): message : см. объявление "Pair::operator *"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(86,21): message : Pair Pair::operator /(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(30): message : см. объявление "Pair::operator /"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(99,10): error C2259: "Complex": невозможно создать экземпляр абстрактного класса
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Complex.h(4): message : см. объявление "Complex"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(99,10): message : из-за следующих членов:
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(99,10): message : Pair Pair::operator =(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(26): message : см. объявление "Pair::operator ="
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(99,10): message : Pair Pair::operator +(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(27): message : см. объявление "Pair::operator +"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(99,10): message : Pair Pair::operator -(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(28): message : см. объявление "Pair::operator -"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(99,10): message : Pair Pair::operator *(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(29): message : см. объявление "Pair::operator *"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(99,10): message : Pair Pair::operator /(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(30): message : см. объявление "Pair::operator /"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(100,14): error C2259: "FuzzyNumber": невозможно создать экземпляр абстрактного класса
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\FuzzyNumber.h(6): message : см. объявление "FuzzyNumber"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(100,14): message : из-за следующих членов:
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(100,14): message : Pair Pair::operator =(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(26): message : см. объявление "Pair::operator ="
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(100,14): message : Pair Pair::operator +(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(27): message : см. объявление "Pair::operator +"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(100,14): message : Pair Pair::operator -(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(28): message : см. объявление "Pair::operator -"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(100,14): message : Pair Pair::operator *(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(29): message : см. объявление "Pair::operator *"
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Source.cpp(100,14): message : Pair Pair::operator /(const Pair &): абстрактный
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.h(30): message : см. объявление "Pair::operator /"
+  Создание кода...

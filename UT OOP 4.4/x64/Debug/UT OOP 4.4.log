@@ -1,0 +1,4 @@
+﻿  UT OOP 4.4.cpp
+C:\Users\hp\source\repos\OOP 4.4\OOP 4.4\Pair.cpp(2,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+C:\Users\hp\source\repos\OOP 4.4\UT OOP 4.4\UT OOP 4.4.cpp(3,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+  UT OOP 4.4.vcxproj -> C:\Users\hp\source\repos\OOP 4.4\x64\Debug\UT OOP 4.4.dll
